@@ -1,5 +1,8 @@
 In this project, let's build an **Alert Notifications** app by applying the concepts we have learned till now.
 
+### Published link:
+https://My24AlertNotifi.ccbp.tech
+
 ### Refer to the image below:
 
 <br/>
